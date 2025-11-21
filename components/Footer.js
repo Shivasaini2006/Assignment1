@@ -28,8 +28,8 @@ const Footer = () => {
               </span>
             </Link>
             <p className="text-white/60 text-sm leading-relaxed max-w-xs">
-              We&apos;re Earth advocates promoting beauty and health through improved
-              technology and creativity.
+              We&apos;re Earth advocates promoting beauty and health through
+              improved technology and creativity.
             </p>
 
             {/* Social Media Icons */}

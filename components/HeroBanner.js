@@ -13,8 +13,8 @@ const HeroBanner = () => {
                 Earth&apos;s Exhale
               </h1>
               <p className="text-lg sm:text-xl md:text-[1.15rem] text-white/70 max-w-xl leading-relaxed font-light">
-                We&apos;re Earth advocates promoting beauty and health of Earth&apos;s
-                exhale using improved technology and creativity.
+                We&apos;re Earth advocates promoting beauty and health of
+                Earth&apos;s exhale using improved technology and creativity.
               </p>
             </div>
 
@@ -63,8 +63,8 @@ const HeroBanner = () => {
                   </h3>
                   <p className="text-white/60 text-[0.9rem] leading-relaxed font-light">
                     Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry&apos;s
-                    standard.
+                    typesetting industry. Lorem Ipsum has been the
+                    industry&apos;s standard.
                   </p>
                 </div>
               </div>
