@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FlowVision - Premium Plant Store 🌿
 
 A pixel-perfect, production-ready Next.js e-commerce website for FlowVision plant store. Built with React.js, Next.js 14+, and Tailwind CSS.
@@ -271,3 +272,7 @@ Built with ❤️ using Next.js and Tailwind CSS
 
 **Live Demo**: Deploy on Vercel for instant preview
 **Tech Stack**: Next.js 14+ • React 18+ • Tailwind CSS 3.4+
+=======
+# Assignment1
+assignment for TOP credits internship 
+>>>>>>> c6de6e34c96e2cfc298fa454f6ad11381b0b177f
