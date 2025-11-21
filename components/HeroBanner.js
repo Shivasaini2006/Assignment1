@@ -10,10 +10,10 @@ const HeroBanner = () => {
           <div className="space-y-8 md:space-y-10 z-10">
             <div className="space-y-6">
               <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-[4.5rem] font-bold text-white leading-[1.1] tracking-tight">
-                Earth's Exhale
+                Earth&apos;s Exhale
               </h1>
               <p className="text-lg sm:text-xl md:text-[1.15rem] text-white/70 max-w-xl leading-relaxed font-light">
-                We're Earth advocates promoting beauty and health of Earth's
+                We&apos;re Earth advocates promoting beauty and health of Earth&apos;s
                 exhale using improved technology and creativity.
               </p>
             </div>
@@ -63,7 +63,7 @@ const HeroBanner = () => {
                   </h3>
                   <p className="text-white/60 text-[0.9rem] leading-relaxed font-light">
                     Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
+                    typesetting industry. Lorem Ipsum has been the industry&apos;s
                     standard.
                   </p>
                 </div>
